@@ -36,7 +36,6 @@
     width: 100%;
     background-color: lightgrey;
     border-bottom: 2px solid darkgray;
-
 }
 
 .header-container{
@@ -99,15 +98,21 @@
     background: lightgrey;
 }
 
-
-
-.basic-flex-container{
-    display: flex;
-    /* justify-content: space-between; */
-}
-
 .about-me-text{
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+.bio-image{
+    float: left;
+    padding-right: 20px;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
 }
 
 /* Misc fonts font-family: Arial, Helvetica Neue, Helvetica, sans-serif; */
