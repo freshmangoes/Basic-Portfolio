@@ -1,3 +1,31 @@
+/* Maybe helpers? Not sure yet */
+.margin-20{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.padding-20tb{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.padding-20lr{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.no-margin{
+    margin: 0;
+}
+
+.no-margin-autolr{
+    margin: 0 auto;
+}
+
+.body-style{
+    background-image:url("../images/tactile_noise/tactile_noise.png");
+}
+
 /* Containers */
 .body-container{
     width: 960px; 
@@ -71,26 +99,11 @@
     background: lightgrey;
 }
 
-.body-style{
-    background-image:url("../images/tactile_noise/tactile_noise.png");
-}
 
-.margin-20{
-    margin-left: 20px;
-    margin-right: 20px;
-}
 
-.padding-20tb{
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-.no-margin{
-    margin: 0;
-}
-
-.no-margin-autolr{
-    margin: 0 auto;
+.basic-flex-container{
+    display: flex;
+    /* justify-content: space-between; */
 }
 
 .about-me-text{
