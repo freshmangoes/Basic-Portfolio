@@ -20,6 +20,10 @@
     padding: 20px 0 20px 0;
 }
 
+.padding-10b{
+    padding-bottom: 10px;
+}
+
 .fullwidth{
     width: 100%
 }
