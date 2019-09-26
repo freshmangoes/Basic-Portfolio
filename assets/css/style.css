@@ -143,14 +143,12 @@
     padding-right: 20px;
 }
 
-/* I think these are unused?
-.float-left{
-    float: left;
+.buttons {
+    padding: 5px 15px 5px 15px;
+    background-color: cadetblue;
+    border: none;
+    color: lightgrey;
 }
-
-.float-right{
-    float: right;
-} */
 
 .input-area[type="text"]{
     /* padding-top: 10px;
@@ -162,3 +160,5 @@
 .message-padding{
     padding: 0 0 300px 0;
 }
+
+
