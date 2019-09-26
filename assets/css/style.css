@@ -92,14 +92,18 @@
     color: lightgrey;
 }
 
-.header.about-me{
+.header.secondary-header{
     color: cadetblue;
     background: lightgrey;
 }
 
-.about-me-text{
+.text{
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     color: #777777;
+}
+
+.text.form{
+    font-size: 14pt;
 }
 
 .bio-image{
