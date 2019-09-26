@@ -58,16 +58,14 @@
     padding-right: 5px;
     padding-top: 30px;
     padding-bottom:5px;
-
-    /* Self bonus: Find out if there's a way to attach two CSS classes to HTML element */
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-    color: gray;
+    color: #777777;
     text-decoration: none;
 }
 
 /* Removes styling from visited navlinks */
 .link-item:visited{
-    color:gray;
+    color:#777777;
 }
 
 /* Vertical separator for navlinks */
@@ -91,6 +89,7 @@
 
 .header.name{
     background-color: cadetblue;
+    color: lightgrey;
 }
 
 .header.about-me{
@@ -100,6 +99,7 @@
 
 .about-me-text{
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color: #777777;
 }
 
 .bio-image{
