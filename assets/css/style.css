@@ -1,12 +1,27 @@
 /* Maybe helpers? Not sure yet */
-.margin-20{
+.margin-20lr{
     margin-left: 20px;
     margin-right: 20px;
+}
+
+.margin-20tb{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .padding-20tb{
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.padding-form{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.form-next{
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .padding-20lr{
