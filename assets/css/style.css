@@ -165,4 +165,15 @@
     padding: 0 0 300px 0;
 }
 
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.box{
+    flex: 0 0 32%;
+    height: 200px;
+    background-color: #999;
+}
 
