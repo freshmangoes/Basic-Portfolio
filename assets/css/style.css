@@ -55,6 +55,7 @@
 
 .body-style{
     background-image:url("../images/tactile_noise/tactile_noise.png");
+    min-height: 835px;
 }
 
 /* Containers */
