@@ -208,11 +208,12 @@
 }
 
 .footer-cell-1{
-    height: 15px;
+    height: 20px;
     background-color: cadetblue;
 }
 
 .footer-cell-2{
+    height: 70px;
     background-color: #4a4a4a;
 }
 
