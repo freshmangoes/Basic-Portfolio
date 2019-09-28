@@ -173,12 +173,25 @@
 
 .box{
     flex: 0 0 32%;
+    width: 290px;
     height: 200px;
     /* background-color: #999; */
+    position: relative;
 }
 
 .img-box{
-    padding: 0 0 0 2.5px;
-    position: relative;
+    padding: 0 0 0 2.2px;
+}
+
+.box-text{
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: cadetblue;
+    width:290px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
