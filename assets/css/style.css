@@ -195,3 +195,30 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.footer-1{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 20px;
+    background-color: cadetblue;
+}
+
+.footer-2{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #4a4a4a;
+}
+
+.footer-text{
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color: white;
+    font-size:12px;
+    text-align: center;
+}
+
+
+
