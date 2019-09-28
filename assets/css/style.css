@@ -166,6 +166,7 @@
     padding: 0 0 300px 0;
 }
 
+/* Portfolio Page Styling */
 .grid{
     display: flex;
     flex-wrap: wrap;
@@ -196,6 +197,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+/* Footer Stuff */
 .footer-box{
     display: flex;
     flex-direction: column;
