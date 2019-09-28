@@ -196,13 +196,24 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.footer-1{
+.footer-box{
+    display: flex;
+    flex-direction: column;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 20px;
+    height: 30px;   
+    /* background-color: cadetblue; */
+}
+
+.footer-cell-1{
+    height: 15px;
     background-color: cadetblue;
+}
+
+.footer-cell-2{
+    background-color: #4a4a4a;
 }
 
 .footer-2{
