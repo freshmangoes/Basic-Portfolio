@@ -140,6 +140,7 @@
 
 .text.bio-text{
     font-size: 14pt;
+    min-height: 280px;
 }
 
 /* Bio image */
